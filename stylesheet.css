@@ -10,6 +10,10 @@ html, body {
   background: linear-gradient(to bottom, rgba(231, 240, 245, 1) 0%, rgba(170, 221, 235, 1) 100%);
 }
 
+img {
+  border-radius: 50%;
+}
+
 h1 {
   font-weight: bold;
   color: #000000;
