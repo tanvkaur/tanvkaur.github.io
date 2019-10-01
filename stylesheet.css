@@ -6,14 +6,13 @@ html, body {
   height: 100%;
   margin: 0px;
   padding: 0px;
-  
+  font-family: 'Oswald', sans-serif;
+}
+
 h1 {
   font-weight: bold;
   color: #fff;
   font-size: 100px;
-}
-  
-  font-family: 'Oswald', sans-serif;
 }
 
 .name {
