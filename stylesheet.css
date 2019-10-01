@@ -40,7 +40,7 @@ h1 {
 
 .social-links a {
   text-decoration: none;
-  padding: 4px;
+  padding: 1px;
 }
 
 .social-links a:hover {
@@ -62,7 +62,7 @@ h1 {
 
 .teams a {
   text-decoration: none;
-  padding: 4px;
+  padding: 1px;
 }
 
 .teams a:hover {
@@ -84,7 +84,7 @@ h1 {
 
 .media a {
   text-decoration: none;
-  padding: 4px;
+  padding: 1px;
 }
 
 .media a:hover {
