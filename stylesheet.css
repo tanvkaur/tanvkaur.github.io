@@ -33,3 +33,47 @@ html, body {
 .social-links a:hover {
   background-color: rgba(0, 0, 0, 0.1);
 }
+
+
+
+.topright {
+  list-style: none;
+  padding-left: 0px;
+  font-size: 18px;
+}
+
+.topright li {
+  display: inline-block;
+  margin-right: 8px;
+}
+
+.topright a {
+  text-decoration: none;
+  padding: 4px;
+}
+
+.topright a:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+
+
+.bottomright {
+  list-style: none;
+  padding-left: 0px;
+  font-size: 18px;
+}
+
+.bottomright li {
+  display: inline-block;
+  margin-right: 8px;
+}
+
+.bottomright a {
+  text-decoration: none;
+  padding: 4px;
+}
+
+.bottomright a:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
