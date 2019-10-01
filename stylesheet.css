@@ -36,44 +36,44 @@ html, body {
 
 
 
-.topright {
+.teams {
   list-style: none;
   padding-left: 0px;
   font-size: 18px;
 }
 
-.topright li {
+.teams li {
   display: inline-block;
   margin-right: 8px;
 }
 
-.topright a {
+.teams a {
   text-decoration: none;
   padding: 4px;
 }
 
-.topright a:hover {
+.teams a:hover {
   background-color: rgba(0, 0, 0, 0.1);
 }
 
 
 
-.bottomright {
+.media {
   list-style: none;
   padding-left: 0px;
   font-size: 18px;
 }
 
-.bottomright li {
+.media li {
   display: inline-block;
   margin-right: 8px;
 }
 
-.bottomright a {
+.media a {
   text-decoration: none;
   padding: 4px;
 }
 
-.bottomright a:hover {
+.media a:hover {
   background-color: rgba(0, 0, 0, 0.1);
 }
